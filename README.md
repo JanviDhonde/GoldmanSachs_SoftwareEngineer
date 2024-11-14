@@ -1,7 +1,7 @@
 ## Goldman Sachs Software Engineering Job Simulation
 
 **GoldmanSachs_SoftwareEngineer:** <br>
-I completed the **Goldman Sachs Software Engineering Job Simulation** on Forage, where I assessed IT security by cracking passwords with Hashcat and identified outdated hashing algorithms. I proposed improvements, including stronger password policies and better hashing methods, and documented my findings in a security memo.
+I completed the **Goldman Sachs Software Engineering Job Simulation** on Forage, where I assessed IT security by cracking passwords with Hashcat and identified outdated hashing algorithms. I proposed improvements, including stronger password policies and better hashing methods, and documented my findings in a security memo..
 
 **Repository Overview:**  
 This repository showcases my participation in the **Goldman Sachs Software Engineering Virtual Experience** on the Forage platform. The simulation allowed me to take on the role of a **governance analyst**, where I was responsible for assessing IT security, specifically focusing on password protection protocols within the organization. During this simulation, I developed hands-on experience in **cryptography**, **password cracking**, and enhancing **IT security practices**.
